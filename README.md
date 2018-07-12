@@ -59,3 +59,9 @@ docker run ^
 ```bash
 docker exec -it jenkins-blueocean bash
 ```
+
+## 查看安装后的 Jenkins
+
+用浏览器打开：
+
+- http://localhost:8080
